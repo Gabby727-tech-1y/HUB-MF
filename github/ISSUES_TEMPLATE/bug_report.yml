@@ -1,0 +1,31 @@
+name: Bug Report
+description: Report a bug in the HUB-MF bot.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "### Thanks for reporting a bug!"
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Information
+      placeholder: "Enter your email or GitHub username"
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      placeholder: "What happened?"
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      placeholder: "1. Go to... 2. Click on..."
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - Low
+        - Medium
+        - High
