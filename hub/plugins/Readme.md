@@ -1,3 +1,3 @@
-*NEXUS TECH BOT*
+*KWAME TECH BOT*
 -------
-**MALVIN-XD V2**
+**HUB-MF**
