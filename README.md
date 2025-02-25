@@ -1,3 +1,4 @@
+![images](https://github.com/user-attachments/assets/77b47706-e0a5-41a8-b247-44d26874bf3e)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 > **`Updating To` Version 2.0.1...**
@@ -17,26 +18,26 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
 <br>
 <p align="center"
-  <a href="https://github.com/kingmalvn/MALVIN-XD">
+  <a href="https://github.com/Gabby727-tech-1y/HUB-MF">
     
   
 </p> 
 
  <p align="center">
-<a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=purple&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kingmalvn/MALVIN-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-XD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-XD?color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-XD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/MALVIN-XD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/kingmalvn/MALVIN-XD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/MALVIN-XD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/kingmalvn/MALVIN-XD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{MALVIN-XD}/count.svg" alt="kingmalvn :: Visitor's Count" old_src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" /></p>
+<a href="https://github.com/Gabby727-tech-1y/followers"><img title="Followers" src="https://img.shields.io/github/followers/Gabby727-tech-1y?color=purple&style=flat-square"></a>
+<a href="https://github.com/Gabby727-tech-1y/HUB-MF/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Gabby727-tech-1y/HUB-MF?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gabby727-tech-1y/HUB-MF/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Gabby727-tech-1y/HUB-MF?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gabby727-tech-1y/HUB-MF/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Gabby727-tech-1y/HUB-MF?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Gabby727-tech-1y/HUB-MF/"><img title="Size" src="https://img.shields.io/github/repo-size/Gabby727-tech-1y/HUB-MF?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGabby727-tech-1y%2FHUB-XD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Gabby727-tech-1y/HUB-MF/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
+<p align="center"><img src="https://profile-counter.glitch.me/{Gabby727-tech-1y}/count.svg" alt="Gabby727-tech-1y :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Gabby727-tech-1y}/count.svg" /></p>
 <p align="center">
-<a href="https://github.com/kingmalvn/MALVIN-XD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MALVIN-XD&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/Gabby727-tech-1y/HUB-MF"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Gabby727-tech-1y-XD&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
-  <a href="https://github.com/kingmalvn/MALVIN-XD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Gabby727-tech-1y/HUB-MF"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
 <p align='center'>
     </p>
@@ -49,7 +50,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/kingmalvn/MALVIN-XD/fork"><img title="MALVIN-XD" src="https://img.shields.io/badge/FORK-MALVIN-XDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Gabby727-tech-1y/HUB-MF/fork"><img title="HUB-MF" src="https://img.shields.io/badge/FORK-HUB-MFh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -59,7 +60,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 *_You will need a session ID to run the MALVIN-XD. Click the button below to obtain your session ID.if any error in loading site try vpn:_*
 
 <p align="centre">
-<a href='https://malvin-pair-7260ba936e0b.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-pink?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://hub-pair-7260ba936e0b.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Get Pairing Code-pink?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 
 
@@ -80,7 +81,7 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 
 **• 1.1 Now deploy.**
     <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Gabby727-tech-1y%2FHUB-MF) 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -93,13 +94,13 @@ src="https://files.catbox.moe/gld2vo.jpg?"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗞𝗢𝗬𝗘𝗕+🛰️)](https://git.io/typing-svg)
 
 <p align="left">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=kingmalvn/MALVIN-XD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20MALVIN-XD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=Gabby727-tech-1y/HUB-MF&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20MALVIN-XD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗘𝗡𝗗𝗘𝗥+🛰️)](https://git.io/typing-svg)
 
 
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FGabby727-tech-1y%2FHUB-MF)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗘𝗣𝗟𝗜𝗧+🛰️)](https://git.io/typing-svg)
@@ -224,7 +225,8 @@ _ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ �
 ***`WARNING` : `𝘋𝘖𝘕'𝘛 𝘔𝘖𝘋𝘐𝘍𝘠 𝘛𝘏𝘐𝘚 𝘉𝘖𝘛 𝘍𝘐𝘙𝘚𝘛 𝘐𝘕𝘍𝘖𝘙𝘔 ME`***
 
 <p align="center">
-  <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-xᴅ+ʀᴇᴘᴏ!!.+ɪᴀᴍ+ᴀsᴋɪɴɢ+ғᴏʀ+ᴘᴇʀᴍɪssɪᴏɴ+ᴛᴏ+ᴄʟᴏɴᴇ+ʏᴏᴜʀ+ʙᴏᴛ+ɪ+ᴡɪʟʟ+ɢɪᴠᴇ+ᴘʀᴏᴘᴇʀ+ᴄʀᴇᴅɪᴛ!!*" target="_blank">
+  <a href="https://wa.me/+233532871325![file-VoDsqBaYukePYoHuztbYVb](https://github.com/user-attachments/assets/cb192bf5-7c6f-4068-8665-bc0c1e450d00)
+?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-xᴅ+ʀᴇᴘᴏ!!.+ɪᴀᴍ+ᴀsᴋɪɴɢ+ғᴏʀ+ᴘᴇʀᴍɪssɪᴏɴ+ᴛᴏ+ᴄʟᴏɴᴇ+ʏᴏᴜʀ+ʙᴏᴛ+ɪ+ᴡɪʟʟ+ɢɪᴠᴇ+ᴘʀᴏᴘᴇʀ+ᴄʀᴇᴅɪᴛ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -green?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <br>
 
